@@ -1,3 +1,3 @@
 ### TIL
 #### React
-- [React ](react/README.md)
+- [React 개론](react/README.md)
